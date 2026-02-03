@@ -19,7 +19,7 @@ gcloud
 kubectl
 terraform
 ✅ Checkpoint: gcloud auth list works
-
+## DONE
 
 ## Day 2 – Terraform Infrastructure
 Outcome: GKE + BigQuery via IaC
@@ -41,7 +41,7 @@ Autopilot ❌ (too abstract)
 Regional cluster ❌ (single zone ok)
 ✅ Checkpoint: kubectl get nodes
 
-
+## DONE
 
 ## Day 3 – Metrics Collector Service
 Outcome: Code that pulls real metrics
